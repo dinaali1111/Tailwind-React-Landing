@@ -1,2 +1,74 @@
-# Tailwind-React-Landing
-A modern, responsive landing page built with React and Tailwind CSS.
+# 🌐 Tailwind React Landing Page
+
+A modern, responsive, and sleek landing page built with **React.js** and **Tailwind CSS**, showcasing best practices in component-based architecture and clean UI/UX.
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live demo](https://dinaali1111.github.io/Tailwind-React-Landing/)
+
+---
+
+## 📸 Preview
+
+![Active-states](./active-states.jpg)
+![Desktop-design](./desktop-design.jpg)
+![Mobile-design](./mobile-design.jpg)
+---
+
+## 🛠️ Built With
+
+- ⚛️ [React.js](https://reactjs.org/)
+- 💨 [Tailwind CSS](https://tailwindcss.com/)
+- ⚙️ [Vite](https://vitejs.dev/) — for super fast development
+- 🔗 [gh-pages](https://www.npmjs.com/package/gh-pages) — for deployment on GitHub Pages
+
+---
+
+## 📁 Features
+
+- 🎯 Fully responsive layout
+- 🌙 Modern dark theme design
+- 🧩 Component-based architecture
+- 💬 Testimonials section
+- 📦 Organized assets & icons
+- 🔍 Clean and readable code
+
+---
+
+## 🌍 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+To redeploy the site after making any changes, run the following commands:
+```bash
+npm run build
+npm run deploy
+```
+
+
+---
+## 🧪 Getting Started Locally
+
+To run the project locally, follow these steps:
+
+# 1. Install dependencies
+npm install
+
+# 2. Run the development server
+npm run dev
+
+# 3. Build for production
+npm run build
+
+---
+
+## 👩‍💻 Author
+
+**Dina Ali**  
+Frontend Developer | React.js & Tailwind Enthusiast  
+
+📫 [Connect with me on LinkedIn](http://linkedin.com/in/dina-ali-66bab3245)
+
+
