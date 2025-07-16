@@ -9,12 +9,11 @@ A modern, responsive, and sleek landing page built with **React.js** and **Tailw
 👉 [Click here to view the live demo](https://dinaali1111.github.io/Tailwind-React-Landing/)
 
 ---
-
 ## 📸 Preview
 
-![Active-states](./active-states.jpg)
-![Desktop-design](./desktop-design.jpg)
-![Mobile-design](./mobile-design.jpg)
+![Active-states](./public/active-states.jpg)
+![Desktop-design](./public/desktop-design.jpg)
+![Mobile-design](./public/mobile-design.jpg)
 ---
 
 ## 🛠️ Built With
@@ -54,14 +53,20 @@ npm run deploy
 To run the project locally, follow these steps:
 
 # 1. Install dependencies
+```bash
+
 npm install
-
+```
 # 2. Run the development server
+```bash
+
 npm run dev
-
+```
 # 3. Build for production
-npm run build
+```bash
 
+npm run build
+```
 ---
 
 ## 👩‍💻 Author
