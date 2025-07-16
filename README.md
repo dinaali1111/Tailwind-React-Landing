@@ -10,6 +10,14 @@ A modern, responsive, and sleek landing page built with **React.js** and **Tailw
 
 ---
 
+## 📸 Preview
+
+![Desktop Design](./preview/desktop-design.jpg)
+![Mobile Design](./preview/mobile-design.jpg)
+![Active States](./preview/active-states.jpg)
+
+---
+
 ## 🛠️ Built With
 
 - ⚛️ [React.js](https://reactjs.org/)
