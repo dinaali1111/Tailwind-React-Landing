@@ -9,12 +9,6 @@ A modern, responsive, and sleek landing page built with **React.js** and **Tailw
 👉 [Click here to view the live demo](https://dinaali1111.github.io/Tailwind-React-Landing/)
 
 ---
-## 📸 Preview
-
-![Active-states](./public/active-states.jpg)
-![Desktop-design](./public/desktop-design.jpg)
-![Mobile-design](./public/mobile-design.jpg)
----
 
 ## 🛠️ Built With
 
@@ -72,7 +66,7 @@ npm run build
 ## 👩‍💻 Author
 
 **Dina Ali**  
-Frontend Developer | React.js & Tailwind Enthusiast  
+Frontend Developer | React.js
 
 📫 [Connect with me on LinkedIn](http://linkedin.com/in/dina-ali-66bab3245)
 
