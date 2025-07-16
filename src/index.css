@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .container {
+    @apply px-[30px] mx-auto;
+  }
+  body {
+    .element-center{
+      @apply flex items-center justify-center;
+    }
+    .btn {
+      @apply bg-[#42b0d1] hover:bg-[#8cdae4] transition-all duration-200 text-white  ;
+    }
+    .hover-icon {
+      @apply group-hover:text-primary transition-all duration-200;
+    }
+   }
+}
+
+
+body {
+  font-family: "Roboto", sans-serif;
+ 
+    background-color:#181d2a;
+}
